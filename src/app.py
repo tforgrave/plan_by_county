@@ -7,7 +7,7 @@ import pandas as pd
 
 import dash
 
-from dash import Dash
+from dash import Dash, html, dcc
 
 app = Dash(__name__)
 server = app.server
@@ -89,11 +89,20 @@ fig.update_traces(
     )
 )
 
-fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+fig.update_layout(
+    margin={"r":0,"t":0,"l":0,"b":0},
+    height=800,  # You can adjust this value as needed
+    width=None
+)
 fig.show()
 
-# Add this line to define a basic layout
-app.layout = dash.html.Div([
-    dash.html.H1("County Plan Visualization"),
-    dash.dcc.Graph(figure=fig)
-])
+app.layout = html.Div(
+    style={"height": "100vh", "width": "100vw"},  # Full viewport
+    children=[
+        html.H1("County Plan Visualization"),
+        dcc.Graph(
+            figure=fig,
+            style={"height": "90vh", "width": "100vw"}  # Make the map fill most of the screen
+        )
+    ]
+)
