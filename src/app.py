@@ -4,7 +4,7 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
     counties = json.load(response)
 
 import pandas as pd
-
+import numpy as np
 import dash
 
 from dash import Dash, html, dcc
@@ -69,29 +69,87 @@ with open("state_names_and_coords.json", "r") as f:
 color_min = grouped["number_of_plans"].min()
 color_max = grouped["number_of_plans"].max()
 
-fig = px.choropleth(
-    grouped,
+# Apply log scale to the color column (add 1 to avoid log(0))
+grouped["log_number_of_plans"] = np.log10(grouped["number_of_plans"] + 1)
+
+# fig = px.choropleth(
+#     grouped,
+#     geojson=counties,
+#     locations='fips',  # Use the FIPS code as locations
+#     color='log_number_of_plans',  # or whatever value you want to map
+#     color_continuous_scale="Viridis",
+#     range_color=(grouped["log_number_of_plans"].min(), grouped["log_number_of_plans"].max()),
+#     scope="usa",
+#     hover_data={"county name": True, "fips": False, "SF_TOT_PARTCP_BOY_CNT": True},
+#     labels={'county name': 'county', 'log_number_of_plans': 'Number of Plans'}
+# )
+
+# Define ticks for the colorbar (log scale, but show actual values as labels)
+log_min = grouped["log_number_of_plans"].min()
+log_max = grouped["log_number_of_plans"].max()
+# Choose a few "nice" ticks for the actual values
+actual_ticks = [1, 5, 10, 25, 50, 100, 250, 500, 1000, 2500, 5000]
+log_ticks = np.log10(np.array(actual_ticks) + 1)
+# Only keep ticks within your data's range
+tickvals = [v for v in log_ticks if log_min <= v <= log_max]
+ticktext = [str(int(v)) for v, lv in zip(actual_ticks, log_ticks) if log_min <= lv <= log_max]
+# print(tickvals)
+# print(ticktext)
+
+choropleth = go.Choropleth(
     geojson=counties,
-    locations='fips',  # Use the FIPS code as locations
-    color='number_of_plans',  # or whatever value you want to map
-    color_continuous_scale="Viridis",
-    range_color=(color_min, color_max),
-    scope="usa",
-    hover_data={"county name": True, "fips": False, "SF_TOT_PARTCP_BOY_CNT": True},
-    labels={'county name': 'county'}
+    locations=grouped['fips'],
+    z=grouped['log_number_of_plans'],
+    customdata=np.stack([grouped["county name"], grouped["number_of_plans"]], axis=-1),
+    colorscale="Viridis",
+    colorbar=dict(
+        tickvals=tickvals,
+        ticktext=ticktext,
+        title="Number of Plans"
+    ),
+    hovertemplate="<b>County:</b> %{customdata[0]}<br><b>Plans:</b> %{customdata[1]}<extra></extra>",
+    marker_line_width=0
 )
 
+
+fig = go.Figure(choropleth)
+
+
+
+# fig.update_traces(
+#     colorbar=dict(
+#         tickvals=tickvals,
+#         ticktext=ticktext,
+#         title="Number of Plans"
+#     ),
+#     selector=dict(type='choropleth')
+# )
+
+# After creating your fig with px.choropleth and before app.layout:
+choropleth_trace = None
+for trace in fig.data:
+    if trace.type == "choropleth":
+        choropleth_trace = trace
+        break
+
+
+    
 # Custom hovertemplate and hoverlabel styling
 fig.update_traces(
     hovertemplate="<b>County:</b> %{customdata[0]}<br>" +
-                  "<b>Plans:</b> %{z}<extra></extra>",
-    customdata=grouped[["county name"]],
+                  "<b>Plans:</b> %{customdata[1]}<extra></extra>",
+    customdata=grouped[["county name", "number_of_plans"]],
     hoverlabel=dict(
         bgcolor="lightblue",
         font_size=12,
         font_family="Arial"
     )
 )
+
+if choropleth_trace:
+    choropleth_trace.colorbar.tickvals = tickvals
+    choropleth_trace.colorbar.ticktext = ticktext
+    choropleth_trace.colorbar.title = "Number of Plans"
 
 # Overlay state abbreviations at their coordinates
 for state in state_centers:
@@ -106,19 +164,26 @@ for state in state_centers:
         ))
 
 fig.update_layout(
+    geo=dict(
+        scope="usa",
+        projection=dict(type="albers usa"),
+        showlakes=True,  # Optional: show lakes
+        lakecolor="rgb(255, 255, 255)"  # Optional: lake color
+    ),
     margin={"r":0,"t":0,"l":0,"b":0},
     height=800,  # You can adjust this value as needed
     width=None
 )
+print(choropleth_trace.colorbar)
 fig.show()
 
-app.layout = html.Div(
-    style={"height": "100vh", "width": "100vw"},  # Full viewport
-    children=[
-        html.H1("Plans by County", style={"textAlign": "center", "marginTop": "20px"}),
-        dcc.Graph(
-            figure=fig,
-            style={"height": "90vh", "width": "100vw"}  # Make the map fill most of the screen
-        )
-    ]
-)
+# app.layout = html.Div(
+#     style={"height": "100vh", "width": "100vw"},  # Full viewport
+#     children=[
+#         html.H1("Plans by County", style={"textAlign": "center", "marginTop": "20px"}),
+#         dcc.Graph(
+#             figure=fig,
+#             style={"height": "90vh", "width": "100vw"}  # Make the map fill most of the screen
+#         )
+#     ]
+# )
