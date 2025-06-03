@@ -13,7 +13,6 @@ app = Dash(__name__)
 server = app.server
 
 
-
 # Read main data
 # df = pd.read_csv("sample_zip.csv", dtype={"zip": str})
 df = pd.read_csv("F_5500_sf_2023_latest_prunned.csv", dtype={"SF_SPONS_US_ZIP": str})
@@ -61,6 +60,11 @@ grouped = pd.merge(grouped, fips_to_county_names, left_on="fips", right_on="fips
 
 # print(grouped.head())
 import plotly.express as px
+import plotly.graph_objects as go
+
+# Load state centers from JSON file
+with open("state_names_and_coords.json", "r") as f:
+    state_centers = json.load(f)
 
 color_min = grouped["number_of_plans"].min()
 color_max = grouped["number_of_plans"].max()
@@ -89,6 +93,18 @@ fig.update_traces(
     )
 )
 
+# Overlay state abbreviations at their coordinates
+for state in state_centers:
+    if "lat" in state and "lon" in state and "abbr" in state:
+        fig.add_trace(go.Scattergeo(
+            lon=[state["lon"]],
+            lat=[state["lat"]],
+            text=state["abbr"],
+            mode='text',
+            showlegend=False,
+            textfont=dict(size=12, color="darkgrey", family="Arial")
+        ))
+
 fig.update_layout(
     margin={"r":0,"t":0,"l":0,"b":0},
     height=800,  # You can adjust this value as needed
@@ -99,7 +115,7 @@ fig.show()
 app.layout = html.Div(
     style={"height": "100vh", "width": "100vw"},  # Full viewport
     children=[
-        html.H1("County Plan Visualization"),
+        html.H1("Plans by County", style={"textAlign": "center", "marginTop": "20px"}),
         dcc.Graph(
             figure=fig,
             style={"height": "90vh", "width": "100vw"}  # Make the map fill most of the screen
