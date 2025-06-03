@@ -5,6 +5,10 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
 
 import pandas as pd
 
+import dash
+
+from dash import Dash
+
 app = Dash(__name__)
 server = app.server
 

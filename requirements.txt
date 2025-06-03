@@ -2,3 +2,4 @@ pandas
 plotly
 urllib3
 gunicorn
+dash
