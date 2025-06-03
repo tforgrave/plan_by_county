@@ -12,7 +12,7 @@ from dash import Dash
 app = Dash(__name__)
 server = app.server
 
-# Read your main data
+# Read main data
 # df = pd.read_csv("sample_zip.csv", dtype={"zip": str})
 df = pd.read_csv("F_5500_sf_2023_latest_prunned.csv", dtype={"SF_SPONS_US_ZIP": str})
 
