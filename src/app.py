@@ -12,11 +12,7 @@ from dash import Dash
 app = Dash(__name__)
 server = app.server
 
-# Add this line to define a basic layout
-app.layout = dash.html.Div([
-    dash.html.H1("County Plan Visualization"),
-    dash.dcc.Graph(figure=fig)
-])
+
 
 # Read main data
 # df = pd.read_csv("sample_zip.csv", dtype={"zip": str})
@@ -95,3 +91,9 @@ fig.update_traces(
 
 fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
 fig.show()
+
+# Add this line to define a basic layout
+app.layout = dash.html.Div([
+    dash.html.H1("County Plan Visualization"),
+    dash.dcc.Graph(figure=fig)
+])
