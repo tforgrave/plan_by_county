@@ -12,6 +12,12 @@ from dash import Dash
 app = Dash(__name__)
 server = app.server
 
+# Add this line to define a basic layout
+app.layout = dash.html.Div([
+    dash.html.H1("County Plan Visualization"),
+    dash.dcc.Graph(figure=fig)
+])
+
 # Read main data
 # df = pd.read_csv("sample_zip.csv", dtype={"zip": str})
 df = pd.read_csv("F_5500_sf_2023_latest_prunned.csv", dtype={"SF_SPONS_US_ZIP": str})
