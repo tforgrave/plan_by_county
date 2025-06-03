@@ -14,7 +14,7 @@ server = app.server
 
 # Read your main data
 # df = pd.read_csv("sample_zip.csv", dtype={"zip": str})
-df = pd.read_csv("/Volumes/8t External Drive/not backed up/5500_data/2023/F_5500_SF_2023_Latest/F_5500_sf_2023_latest_prunned.csv", dtype={"SF_SPONS_US_ZIP": str})
+df = pd.read_csv("F_5500_sf_2023_latest_prunned.csv", dtype={"SF_SPONS_US_ZIP": str})
 
 # Ensure zip codes are exactly 5 digits (pad with zeros if needed)
 # df["SF_SPONS_US_ZIP"] = pd.to_numeric(df["SF_SPONS_US_ZIP"], errors="coerce").dropna().astype(int).astype(str).str.zfill(5)
