@@ -174,16 +174,16 @@ fig.update_layout(
     height=800,  # You can adjust this value as needed
     width=None
 )
-print(choropleth_trace.colorbar)
+# print(choropleth_trace.colorbar)
 fig.show()
 
-# app.layout = html.Div(
-#     style={"height": "100vh", "width": "100vw"},  # Full viewport
-#     children=[
-#         html.H1("Plans by County", style={"textAlign": "center", "marginTop": "20px"}),
-#         dcc.Graph(
-#             figure=fig,
-#             style={"height": "90vh", "width": "100vw"}  # Make the map fill most of the screen
-#         )
-#     ]
-# )
+app.layout = html.Div(
+    style={"height": "100vh", "width": "100vw"},  # Full viewport
+    children=[
+        html.H1("Plans by County", style={"textAlign": "center", "marginTop": "20px"}),
+        dcc.Graph(
+            figure=fig,
+            style={"height": "90vh", "width": "100vw"}  # Make the map fill most of the screen
+        )
+    ]
+)
