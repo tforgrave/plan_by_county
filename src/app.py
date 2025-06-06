@@ -11,6 +11,8 @@ app = Dash(__name__)
 # app = Dash()
 server = app.server
 
+debug = False  # Set to False in production
+
 ##############################################
 # Read in all the data first
 ##############################################
