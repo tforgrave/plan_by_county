@@ -1,0 +1,3402 @@
+[
+  {
+    "Business_Code": "111100",
+    "Main_code": "110000",
+    "GA_code": "111000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Crop Production",
+    "Principal_Activity": "Oilseed & Grain Farming"
+  },
+  {
+    "Business_Code": "111210",
+    "Main_code": "110000",
+    "GA_code": "111000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Crop Production",
+    "Principal_Activity": "Vegetable & Melon Farming (including potatoes & yams)"
+  },
+  {
+    "Business_Code": "111300",
+    "Main_code": "110000",
+    "GA_code": "111000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Crop Production",
+    "Principal_Activity": "Fruit & Tree Nut Farming"
+  },
+  {
+    "Business_Code": "111400",
+    "Main_code": "110000",
+    "GA_code": "111000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Crop Production",
+    "Principal_Activity": "Greenhouse, Nursery, & Floriculture Production"
+  },
+  {
+    "Business_Code": "111900",
+    "Main_code": "110000",
+    "GA_code": "111000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Crop Production",
+    "Principal_Activity": "Other Crop Farming (including tobacco, cotton, sugarcane, hay, peanut, sugar beet, & all other crop farming)"
+  },
+  {
+    "Business_Code": "112111",
+    "Main_code": "110000",
+    "GA_code": "112000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Animal Production",
+    "Principal_Activity": "Beef Cattle Ranching & Farming"
+  },
+  {
+    "Business_Code": "112112",
+    "Main_code": "110000",
+    "GA_code": "112000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Animal Production",
+    "Principal_Activity": "Cattle Feedlots"
+  },
+  {
+    "Business_Code": "112120",
+    "Main_code": "110000",
+    "GA_code": "112000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Animal Production",
+    "Principal_Activity": "Dairy Cattle & Milk Production"
+  },
+  {
+    "Business_Code": "112210",
+    "Main_code": "110000",
+    "GA_code": "112000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Animal Production",
+    "Principal_Activity": "Hog & Pig Farming"
+  },
+  {
+    "Business_Code": "112300",
+    "Main_code": "110000",
+    "GA_code": "112000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Animal Production",
+    "Principal_Activity": "Poultry & Egg Production"
+  },
+  {
+    "Business_Code": "112400",
+    "Main_code": "110000",
+    "GA_code": "112000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Animal Production",
+    "Principal_Activity": "Sheep & Goat Farming"
+  },
+  {
+    "Business_Code": "112510",
+    "Main_code": "110000",
+    "GA_code": "112000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Animal Production",
+    "Principal_Activity": "Aquaculture (including shellfish & finfish farms & hatcheries)"
+  },
+  {
+    "Business_Code": "112900",
+    "Main_code": "110000",
+    "GA_code": "112000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Animal Production",
+    "Principal_Activity": "Other Animal Production"
+  },
+  {
+    "Business_Code": "113110",
+    "Main_code": "110000",
+    "GA_code": "113000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Forestry and Logging",
+    "Principal_Activity": "Timber Tract Operations"
+  },
+  {
+    "Business_Code": "113210",
+    "Main_code": "110000",
+    "GA_code": "113000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Forestry and Logging",
+    "Principal_Activity": "Forest Nurseries & Gathering of Forest Products"
+  },
+  {
+    "Business_Code": "113310",
+    "Main_code": "110000",
+    "GA_code": "113000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Forestry and Logging",
+    "Principal_Activity": "Logging"
+  },
+  {
+    "Business_Code": "114110",
+    "Main_code": "110000",
+    "GA_code": "114000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Fishing, Hunting and Trapping",
+    "Principal_Activity": "Fishing"
+  },
+  {
+    "Business_Code": "114210",
+    "Main_code": "110000",
+    "GA_code": "114000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Fishing, Hunting and Trapping",
+    "Principal_Activity": "Hunting & Trapping"
+  },
+  {
+    "Business_Code": "115110",
+    "Main_code": "110000",
+    "GA_code": "115000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Support Activities for Agriculture and Forestry",
+    "Principal_Activity": "Support Activities for Crop Production (including cotton ginning, soil preparation, planting, & cultivating)"
+  },
+  {
+    "Business_Code": "115210",
+    "Main_code": "110000",
+    "GA_code": "115000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Support Activities for Agriculture and Forestry",
+    "Principal_Activity": "Support Activities for Animal Production"
+  },
+  {
+    "Business_Code": "115310",
+    "Main_code": "110000",
+    "GA_code": "115000",
+    "Main_Industry": "Agriculture, Forestry, Fishing and Hunting",
+    "General_Activity": "Support Activities for Agriculture and Forestry",
+    "Principal_Activity": "Support Activities For Forestry"
+  },
+  {
+    "Business_Code": "211110",
+    "Main_code": "210000",
+    "GA_code": "211000",
+    "Main_Industry": "Mining",
+    "General_Activity": "Mining",
+    "Principal_Activity": "Oil & Gas Extraction"
+  },
+  {
+    "Business_Code": "212110",
+    "Main_code": "210000",
+    "GA_code": "212000",
+    "Main_Industry": "Mining",
+    "General_Activity": "Mining",
+    "Principal_Activity": "Coal Mining"
+  },
+  {
+    "Business_Code": "212200",
+    "Main_code": "210000",
+    "GA_code": "212000",
+    "Main_Industry": "Mining",
+    "General_Activity": "Mining",
+    "Principal_Activity": "Metal Ore Mining"
+  },
+  {
+    "Business_Code": "212310",
+    "Main_code": "210000",
+    "GA_code": "212000",
+    "Main_Industry": "Mining",
+    "General_Activity": "Mining",
+    "Principal_Activity": "Stone Mining & Quarrying"
+  },
+  {
+    "Business_Code": "212320",
+    "Main_code": "210000",
+    "GA_code": "212000",
+    "Main_Industry": "Mining",
+    "General_Activity": "Mining",
+    "Principal_Activity": "Sand, Gravel, Clay, & Ceramic & Refractory Minerals Mining & Quarrying"
+  },
+  {
+    "Business_Code": "212390",
+    "Main_code": "210000",
+    "GA_code": "212000",
+    "Main_Industry": "Mining",
+    "General_Activity": "Mining",
+    "Principal_Activity": "Other Nonmetallic Mineral Mining & Quarrying"
+  },
+  {
+    "Business_Code": "213110",
+    "Main_code": "210000",
+    "GA_code": "213000",
+    "Main_Industry": "Mining",
+    "General_Activity": "Mining",
+    "Principal_Activity": "Support Activities for Mining"
+  },
+  {
+    "Business_Code": "221100",
+    "Main_code": "220000",
+    "GA_code": "221000",
+    "Main_Industry": "Utilities",
+    "General_Activity": "Utilities",
+    "Principal_Activity": "Electric Power Generation, Transmission & Distribution"
+  },
+  {
+    "Business_Code": "221210",
+    "Main_code": "220000",
+    "GA_code": "221000",
+    "Main_Industry": "Utilities",
+    "General_Activity": "Utilities",
+    "Principal_Activity": "Natural Gas Distribution"
+  },
+  {
+    "Business_Code": "221300",
+    "Main_code": "220000",
+    "GA_code": "221000",
+    "Main_Industry": "Utilities",
+    "General_Activity": "Utilities",
+    "Principal_Activity": "Water, Sewage, & Other Systems"
+  },
+  {
+    "Business_Code": "221500",
+    "Main_code": "220000",
+    "GA_code": "221000",
+    "Main_Industry": "Utilities",
+    "General_Activity": "Utilities",
+    "Principal_Activity": "Combination Gas & Electric"
+  },
+  {
+    "Business_Code": "236110",
+    "Main_code": "230000",
+    "GA_code": "236000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Construction of Buildings",
+    "Principal_Activity": "Residential Building Construction"
+  },
+  {
+    "Business_Code": "236200",
+    "Main_code": "230000",
+    "GA_code": "236000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Construction of Buildings",
+    "Principal_Activity": "Nonresidential Building Construction"
+  },
+  {
+    "Business_Code": "237100",
+    "Main_code": "230000",
+    "GA_code": "237000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Heavy and Civil Engineering Construction",
+    "Principal_Activity": "Utility System Construction"
+  },
+  {
+    "Business_Code": "237210",
+    "Main_code": "230000",
+    "GA_code": "237000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Heavy and Civil Engineering Construction",
+    "Principal_Activity": "Land Subdivision"
+  },
+  {
+    "Business_Code": "237310",
+    "Main_code": "230000",
+    "GA_code": "237000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Heavy and Civil Engineering Construction",
+    "Principal_Activity": "Highway, Street, & Bridge Construction"
+  },
+  {
+    "Business_Code": "237990",
+    "Main_code": "230000",
+    "GA_code": "237000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Heavy and Civil Engineering Construction",
+    "Principal_Activity": "Other Heavy & Civil Engineering Construction"
+  },
+  {
+    "Business_Code": "238100",
+    "Main_code": "230000",
+    "GA_code": "238000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Specialty Trade Contractors",
+    "Principal_Activity": "Foundation, Structure, & Building Exterior Contractors (including framing carpentry, masonry, glass, roofing, & siding)"
+  },
+  {
+    "Business_Code": "238210",
+    "Main_code": "230000",
+    "GA_code": "238000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Specialty Trade Contractors",
+    "Principal_Activity": "Electrical Contractors"
+  },
+  {
+    "Business_Code": "238220",
+    "Main_code": "230000",
+    "GA_code": "238000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Specialty Trade Contractors",
+    "Principal_Activity": "Plumbing, Heating, & Air"
+  },
+  {
+    "Business_Code": "238290",
+    "Main_code": "230000",
+    "GA_code": "238000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Specialty Trade Contractors",
+    "Principal_Activity": "Other Building Equipment Contractors"
+  },
+  {
+    "Business_Code": "238300",
+    "Main_code": "230000",
+    "GA_code": "238000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Specialty Trade Contractors",
+    "Principal_Activity": "Building Finishing Contractors (including drywall, insulation, painting, wallcovering, flooring, tile, & finish carpentry)"
+  },
+  {
+    "Business_Code": "238900",
+    "Main_code": "230000",
+    "GA_code": "238000",
+    "Main_Industry": "Construction",
+    "General_Activity": "Specialty Trade Contractors",
+    "Principal_Activity": "Other Specialty Trade Contractors (including site preparation)"
+  },
+  {
+    "Business_Code": "311110",
+    "Main_code": "310000",
+    "GA_code": "311000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Food Manufacturing",
+    "Principal_Activity": "Animal Food Mfg"
+  },
+  {
+    "Business_Code": "311200",
+    "Main_code": "310000",
+    "GA_code": "311000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Food Manufacturing",
+    "Principal_Activity": "Grain & Oilseed Milling"
+  },
+  {
+    "Business_Code": "311300",
+    "Main_code": "310000",
+    "GA_code": "311000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Food Manufacturing",
+    "Principal_Activity": "Sugar & Confectionery Product Mfg"
+  },
+  {
+    "Business_Code": "311400",
+    "Main_code": "310000",
+    "GA_code": "311000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Food Manufacturing",
+    "Principal_Activity": "Fruit & Vegetable Preserving & Specialty Food Mfg"
+  },
+  {
+    "Business_Code": "311500",
+    "Main_code": "310000",
+    "GA_code": "311000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Food Manufacturing",
+    "Principal_Activity": "Dairy Product Mfg"
+  },
+  {
+    "Business_Code": "311610",
+    "Main_code": "310000",
+    "GA_code": "311000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Food Manufacturing",
+    "Principal_Activity": "Animal Slaughtering and Processing"
+  },
+  {
+    "Business_Code": "311710",
+    "Main_code": "310000",
+    "GA_code": "311000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Food Manufacturing",
+    "Principal_Activity": "Seafood Product Preparation & Packaging"
+  },
+  {
+    "Business_Code": "311800",
+    "Main_code": "310000",
+    "GA_code": "311000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Food Manufacturing",
+    "Principal_Activity": "Bakeries & Tortilla Mfg"
+  },
+  {
+    "Business_Code": "311900",
+    "Main_code": "310000",
+    "GA_code": "311000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Food Manufacturing",
+    "Principal_Activity": "Other Food Mfg (including coffee, tea, flavorings & seasonings)"
+  },
+  {
+    "Business_Code": "312110",
+    "Main_code": "310000",
+    "GA_code": "312000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Beverage and Tobacco Product Manufacturing",
+    "Principal_Activity": "Soft Drink & Ice Mfg"
+  },
+  {
+    "Business_Code": "312120",
+    "Main_code": "310000",
+    "GA_code": "312000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Beverage and Tobacco Product Manufacturing",
+    "Principal_Activity": "Breweries"
+  },
+  {
+    "Business_Code": "312130",
+    "Main_code": "310000",
+    "GA_code": "312000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Beverage and Tobacco Product Manufacturing",
+    "Principal_Activity": "Wineries"
+  },
+  {
+    "Business_Code": "312140",
+    "Main_code": "310000",
+    "GA_code": "312000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Beverage and Tobacco Product Manufacturing",
+    "Principal_Activity": "Distilleries"
+  },
+  {
+    "Business_Code": "312200",
+    "Main_code": "310000",
+    "GA_code": "312000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Beverage and Tobacco Product Manufacturing",
+    "Principal_Activity": "Tobacco Manufacturing"
+  },
+  {
+    "Business_Code": "313000",
+    "Main_code": "310000",
+    "GA_code": "313000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Textile Mills and Textile Product Mills",
+    "Principal_Activity": "Textile Mills"
+  },
+  {
+    "Business_Code": "314000",
+    "Main_code": "310000",
+    "GA_code": "314000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Textile Mills and Textile Product Mills",
+    "Principal_Activity": "Textile Product Mills"
+  },
+  {
+    "Business_Code": "315100",
+    "Main_code": "310000",
+    "GA_code": "315000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Apparel Manufacturing",
+    "Principal_Activity": "Apparel Knitting Mills"
+  },
+  {
+    "Business_Code": "315210",
+    "Main_code": "310000",
+    "GA_code": "315000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Apparel Manufacturing",
+    "Principal_Activity": "Cut & Sew Apparel Contractors"
+  },
+  {
+    "Business_Code": "315220",
+    "Main_code": "310000",
+    "GA_code": "315000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Apparel Manufacturing",
+    "Principal_Activity": "Men's & Boys' Cut & Sew Apparel Mfg"
+  },
+  {
+    "Business_Code": "315230",
+    "Main_code": "310000",
+    "GA_code": "315000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Apparel Manufacturing",
+    "Principal_Activity": "Women's & Girls' Cut & Sew Apparel Mfg"
+  },
+  {
+    "Business_Code": "315290",
+    "Main_code": "310000",
+    "GA_code": "315000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Apparel Manufacturing",
+    "Principal_Activity": "Other Cut & Sew Apparel Mfg"
+  },
+  {
+    "Business_Code": "315990",
+    "Main_code": "310000",
+    "GA_code": "315000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Apparel Manufacturing",
+    "Principal_Activity": "Apparel Accessories & Other Apparel Mfg"
+  },
+  {
+    "Business_Code": "316110",
+    "Main_code": "310000",
+    "GA_code": "316000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Leather and Allied Product Manufacturing",
+    "Principal_Activity": "Leather & Hide Tanning & Finishing"
+  },
+  {
+    "Business_Code": "316210",
+    "Main_code": "310000",
+    "GA_code": "316000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Leather and Allied Product Manufacturing",
+    "Principal_Activity": "Footwear Mfg (including rubber & plastics)"
+  },
+  {
+    "Business_Code": "316990",
+    "Main_code": "310000",
+    "GA_code": "316000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Leather and Allied Product Manufacturing",
+    "Principal_Activity": "Other Leather & Allied Product Mfg"
+  },
+  {
+    "Business_Code": "321110",
+    "Main_code": "320000",
+    "GA_code": "321000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Wood Product Manufacturing",
+    "Principal_Activity": "Sawmills & Wood Preservation"
+  },
+  {
+    "Business_Code": "321210",
+    "Main_code": "320000",
+    "GA_code": "321000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Wood Product Manufacturing",
+    "Principal_Activity": "Veneer, Plywood, & Engineered Wood Product Mfg"
+  },
+  {
+    "Business_Code": "321900",
+    "Main_code": "320000",
+    "GA_code": "321000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Wood Product Manufacturing",
+    "Principal_Activity": "Other Wood Product Mfg"
+  },
+  {
+    "Business_Code": "322100",
+    "Main_code": "320000",
+    "GA_code": "322000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Paper Manufacturing",
+    "Principal_Activity": "Pulp, Paper, & Paperboard Mills"
+  },
+  {
+    "Business_Code": "322200",
+    "Main_code": "320000",
+    "GA_code": "322000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Paper Manufacturing",
+    "Principal_Activity": "Converted Paper Product Mfg"
+  },
+  {
+    "Business_Code": "323100",
+    "Main_code": "320000",
+    "GA_code": "323000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Printing and Related Support Activities",
+    "Principal_Activity": "Printing & Related Support Activities"
+  },
+  {
+    "Business_Code": "324110",
+    "Main_code": "320000",
+    "GA_code": "324000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Petroleum and Coal Products Manufacturing",
+    "Principal_Activity": "Petroleum Refineries (including integrated)"
+  },
+  {
+    "Business_Code": "324120",
+    "Main_code": "320000",
+    "GA_code": "324000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Petroleum and Coal Products Manufacturing",
+    "Principal_Activity": "Asphalt Paving, Roofing, & Saturated Materials Mfg"
+  },
+  {
+    "Business_Code": "324190",
+    "Main_code": "320000",
+    "GA_code": "324000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Petroleum and Coal Products Manufacturing",
+    "Principal_Activity": "Other Petroleum & Coal Products Mfg"
+  },
+  {
+    "Business_Code": "325100",
+    "Main_code": "320000",
+    "GA_code": "325000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Chemical Manufacturing",
+    "Principal_Activity": "Basic Chemical Mfg"
+  },
+  {
+    "Business_Code": "325200",
+    "Main_code": "320000",
+    "GA_code": "325000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Chemical Manufacturing",
+    "Principal_Activity": "Resin, Synthetic Rubber, & Artificial & Synthetic Fibers & Filaments Mfg"
+  },
+  {
+    "Business_Code": "325300",
+    "Main_code": "320000",
+    "GA_code": "325000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Chemical Manufacturing",
+    "Principal_Activity": "Pesticide, Fertilizer, & Other Agricultural Chemical Mfg"
+  },
+  {
+    "Business_Code": "325410",
+    "Main_code": "320000",
+    "GA_code": "325000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Chemical Manufacturing",
+    "Principal_Activity": "Pharmaceutical & Medicine Mfg"
+  },
+  {
+    "Business_Code": "325500",
+    "Main_code": "320000",
+    "GA_code": "325000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Chemical Manufacturing",
+    "Principal_Activity": "Paint, Coating, & Adhesive Mfg"
+  },
+  {
+    "Business_Code": "325600",
+    "Main_code": "320000",
+    "GA_code": "325000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Chemical Manufacturing",
+    "Principal_Activity": "Soap, Cleaning Compound, & Toilet Preparation Mfg"
+  },
+  {
+    "Business_Code": "325900",
+    "Main_code": "320000",
+    "GA_code": "325000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Chemical Manufacturing",
+    "Principal_Activity": "Other Chemical Product & Preparation Mfg"
+  },
+  {
+    "Business_Code": "326100",
+    "Main_code": "320000",
+    "GA_code": "326000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Plastics and Rubber Products Manufacturing",
+    "Principal_Activity": "Plastics Product Mfg"
+  },
+  {
+    "Business_Code": "326200",
+    "Main_code": "320000",
+    "GA_code": "326000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Plastics and Rubber Products Manufacturing",
+    "Principal_Activity": "Rubber Product Mfg"
+  },
+  {
+    "Business_Code": "327100",
+    "Main_code": "320000",
+    "GA_code": "327000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Nonmetallic Mineral Product Manufacturing",
+    "Principal_Activity": "Clay Product & Refractory Mfg"
+  },
+  {
+    "Business_Code": "327210",
+    "Main_code": "320000",
+    "GA_code": "327000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Nonmetallic Mineral Product Manufacturing",
+    "Principal_Activity": "Glass & Glass Product Mfg"
+  },
+  {
+    "Business_Code": "327300",
+    "Main_code": "320000",
+    "GA_code": "327000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Nonmetallic Mineral Product Manufacturing",
+    "Principal_Activity": "Cement & Concrete Product Mfg"
+  },
+  {
+    "Business_Code": "327400",
+    "Main_code": "320000",
+    "GA_code": "327000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Nonmetallic Mineral Product Manufacturing",
+    "Principal_Activity": "Lime & Gypsum Product Mfg"
+  },
+  {
+    "Business_Code": "327900",
+    "Main_code": "320000",
+    "GA_code": "327000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Nonmetallic Mineral Product Manufacturing",
+    "Principal_Activity": "Other Nonmetallic Mineral Product Mfg"
+  },
+  {
+    "Business_Code": "331110",
+    "Main_code": "330000",
+    "GA_code": "331000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Primary Metal Manufacturing",
+    "Principal_Activity": "Iron & Steel Mills & Ferroalloy Mfg"
+  },
+  {
+    "Business_Code": "331200",
+    "Main_code": "330000",
+    "GA_code": "331000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Primary Metal Manufacturing",
+    "Principal_Activity": "Steel Product Mfg from Purchased Steel"
+  },
+  {
+    "Business_Code": "331310",
+    "Main_code": "330000",
+    "GA_code": "331000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Primary Metal Manufacturing",
+    "Principal_Activity": "Alumina & Aluminum Production & Processing"
+  },
+  {
+    "Business_Code": "331400",
+    "Main_code": "330000",
+    "GA_code": "331000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Primary Metal Manufacturing",
+    "Principal_Activity": "Nonferrous Metal (except Aluminum) Production & Processing"
+  },
+  {
+    "Business_Code": "331500",
+    "Main_code": "330000",
+    "GA_code": "331000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Primary Metal Manufacturing",
+    "Principal_Activity": "Foundries"
+  },
+  {
+    "Business_Code": "332110",
+    "Main_code": "330000",
+    "GA_code": "332000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Fabricated Metal Product Manufacturing",
+    "Principal_Activity": "Forging & Stamping"
+  },
+  {
+    "Business_Code": "332210",
+    "Main_code": "330000",
+    "GA_code": "332000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Fabricated Metal Product Manufacturing",
+    "Principal_Activity": "Cutlery & Handtool Mfg"
+  },
+  {
+    "Business_Code": "332300",
+    "Main_code": "330000",
+    "GA_code": "332000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Fabricated Metal Product Manufacturing",
+    "Principal_Activity": "Architectural & Structural Metals Mfg"
+  },
+  {
+    "Business_Code": "332400",
+    "Main_code": "330000",
+    "GA_code": "332000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Fabricated Metal Product Manufacturing",
+    "Principal_Activity": "Boiler, Tank, & Shipping Container Mfg"
+  },
+  {
+    "Business_Code": "332510",
+    "Main_code": "330000",
+    "GA_code": "332000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Fabricated Metal Product Manufacturing",
+    "Principal_Activity": "Hardware Mfg"
+  },
+  {
+    "Business_Code": "332610",
+    "Main_code": "330000",
+    "GA_code": "332000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Fabricated Metal Product Manufacturing",
+    "Principal_Activity": "Spring & Wire Product Mfg"
+  },
+  {
+    "Business_Code": "332700",
+    "Main_code": "330000",
+    "GA_code": "332000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Fabricated Metal Product Manufacturing",
+    "Principal_Activity": "Machine Shops; Turned Product; & Screw, Nut, & Bolt Mfg"
+  },
+  {
+    "Business_Code": "332810",
+    "Main_code": "330000",
+    "GA_code": "332000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Fabricated Metal Product Manufacturing",
+    "Principal_Activity": "Coating, Engraving, Heat Treating, & Allied Activities"
+  },
+  {
+    "Business_Code": "332900",
+    "Main_code": "330000",
+    "GA_code": "332000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Fabricated Metal Product Manufacturing",
+    "Principal_Activity": "Other Fabricated Metal Product Mfg"
+  },
+  {
+    "Business_Code": "333100",
+    "Main_code": "330000",
+    "GA_code": "333000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Machinery Manufacturing",
+    "Principal_Activity": "Agriculture, Construction, & Mining Machinery Mfg"
+  },
+  {
+    "Business_Code": "333200",
+    "Main_code": "330000",
+    "GA_code": "333000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Machinery Manufacturing",
+    "Principal_Activity": "Industrial Machinery Mfg"
+  },
+  {
+    "Business_Code": "333310",
+    "Main_code": "330000",
+    "GA_code": "333000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Machinery Manufacturing",
+    "Principal_Activity": "Commercial & Service Industry Machinery Mfg"
+  },
+  {
+    "Business_Code": "333410",
+    "Main_code": "330000",
+    "GA_code": "333000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Machinery Manufacturing",
+    "Principal_Activity": "Ventilation, Heating, Air"
+  },
+  {
+    "Business_Code": "333510",
+    "Main_code": "330000",
+    "GA_code": "333000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Machinery Manufacturing",
+    "Principal_Activity": "Metalworking Machinery Mfg"
+  },
+  {
+    "Business_Code": "333610",
+    "Main_code": "330000",
+    "GA_code": "333000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Machinery Manufacturing",
+    "Principal_Activity": "Engine, Turbine & Power Transmission Equipment Mfg"
+  },
+  {
+    "Business_Code": "333900",
+    "Main_code": "330000",
+    "GA_code": "333000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Machinery Manufacturing",
+    "Principal_Activity": "Other General Purpose Machinery Mfg"
+  },
+  {
+    "Business_Code": "334110",
+    "Main_code": "330000",
+    "GA_code": "334000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Computer and Electronic Product Manufacturing",
+    "Principal_Activity": "Computer & Peripheral Equipment Mfg"
+  },
+  {
+    "Business_Code": "334200",
+    "Main_code": "330000",
+    "GA_code": "334000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Computer and Electronic Product Manufacturing",
+    "Principal_Activity": "Communications Equipment Mfg"
+  },
+  {
+    "Business_Code": "334310",
+    "Main_code": "330000",
+    "GA_code": "334000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Computer and Electronic Product Manufacturing",
+    "Principal_Activity": "Audio & Video Equipment Mfg"
+  },
+  {
+    "Business_Code": "334410",
+    "Main_code": "330000",
+    "GA_code": "334000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Computer and Electronic Product Manufacturing",
+    "Principal_Activity": "Semiconductor & Other Electronic Component Mfg"
+  },
+  {
+    "Business_Code": "334500",
+    "Main_code": "330000",
+    "GA_code": "334000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Computer and Electronic Product Manufacturing",
+    "Principal_Activity": "Navigational, Measuring, Electromedical, & Control Instruments Mfg"
+  },
+  {
+    "Business_Code": "334610",
+    "Main_code": "330000",
+    "GA_code": "334000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Computer and Electronic Product Manufacturing",
+    "Principal_Activity": "Manufacturing & Reproducing Magnetic & Optical Media"
+  },
+  {
+    "Business_Code": "335100",
+    "Main_code": "330000",
+    "GA_code": "335000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Electrical Equipment, Appliance, and Component Manufacturing",
+    "Principal_Activity": "Electric Lighting Equipment Mfg"
+  },
+  {
+    "Business_Code": "335200",
+    "Main_code": "330000",
+    "GA_code": "335000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Electrical Equipment, Appliance, and Component Manufacturing",
+    "Principal_Activity": "Household Appliance Mfg"
+  },
+  {
+    "Business_Code": "335310",
+    "Main_code": "330000",
+    "GA_code": "335000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Electrical Equipment, Appliance, and Component Manufacturing",
+    "Principal_Activity": "Electrical Equipment Mfg"
+  },
+  {
+    "Business_Code": "335900",
+    "Main_code": "330000",
+    "GA_code": "335000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Electrical Equipment, Appliance, and Component Manufacturing",
+    "Principal_Activity": "Other Electrical Equipment & Component Mfg"
+  },
+  {
+    "Business_Code": "336100",
+    "Main_code": "330000",
+    "GA_code": "336000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Transportation Equipment Manufacturing",
+    "Principal_Activity": "Motor Vehicle Mfg"
+  },
+  {
+    "Business_Code": "336210",
+    "Main_code": "330000",
+    "GA_code": "336000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Transportation Equipment Manufacturing",
+    "Principal_Activity": "Motor Vehicle Body & Trailer Mfg"
+  },
+  {
+    "Business_Code": "336300",
+    "Main_code": "330000",
+    "GA_code": "336000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Transportation Equipment Manufacturing",
+    "Principal_Activity": "Motor Vehicle Parts Mfg"
+  },
+  {
+    "Business_Code": "336410",
+    "Main_code": "330000",
+    "GA_code": "336000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Transportation Equipment Manufacturing",
+    "Principal_Activity": "Aerospace Product & Parts Mfg"
+  },
+  {
+    "Business_Code": "336510",
+    "Main_code": "330000",
+    "GA_code": "336000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Transportation Equipment Manufacturing",
+    "Principal_Activity": "Railroad Rolling Stock Mfg"
+  },
+  {
+    "Business_Code": "336610",
+    "Main_code": "330000",
+    "GA_code": "336000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Transportation Equipment Manufacturing",
+    "Principal_Activity": "Ship & Boat Building"
+  },
+  {
+    "Business_Code": "336990",
+    "Main_code": "330000",
+    "GA_code": "336000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Transportation Equipment Manufacturing",
+    "Principal_Activity": "Other Transportation Equipment Mfg"
+  },
+  {
+    "Business_Code": "337000",
+    "Main_code": "330000",
+    "GA_code": "337000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Furniture and Related Product Manufacturing",
+    "Principal_Activity": "Furniture & Related Product Manufacturing"
+  },
+  {
+    "Business_Code": "339110",
+    "Main_code": "330000",
+    "GA_code": "339000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Miscellaneous Manufacturing",
+    "Principal_Activity": "Medical Equipment & Supplies Mfg"
+  },
+  {
+    "Business_Code": "339900",
+    "Main_code": "330000",
+    "GA_code": "339000",
+    "Main_Industry": "Manufacturing",
+    "General_Activity": "Miscellaneous Manufacturing",
+    "Principal_Activity": "Other Miscellaneous Manufacturing"
+  },
+  {
+    "Business_Code": "423100",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Motor Vehicle & Motor Vehicle Parts & Supplies"
+  },
+  {
+    "Business_Code": "423200",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Furniture & Home Furnishings"
+  },
+  {
+    "Business_Code": "423300",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Lumber & Other Construction Materials"
+  },
+  {
+    "Business_Code": "423400",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Professional & Commercial Equipment & Supplies"
+  },
+  {
+    "Business_Code": "423500",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Metals & Minerals (except Petroleum)"
+  },
+  {
+    "Business_Code": "423600",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Electrical & Electronic Goods"
+  },
+  {
+    "Business_Code": "423700",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Hardware, Plumbing & Heating Equipment & Supplies"
+  },
+  {
+    "Business_Code": "423800",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Machinery, Equipment, & Supplies"
+  },
+  {
+    "Business_Code": "423910",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Sporting & Recreational Goods & Supplies"
+  },
+  {
+    "Business_Code": "423920",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Toy & Hobby Goods & Supplies"
+  },
+  {
+    "Business_Code": "423930",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Recyclable Materials"
+  },
+  {
+    "Business_Code": "423940",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Jewelry, Watches, Precious Stones, & Precious Metals"
+  },
+  {
+    "Business_Code": "423990",
+    "Main_code": "420000",
+    "GA_code": "423000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Durable Goods",
+    "Principal_Activity": "Other Miscellaneous Durable Goods"
+  },
+  {
+    "Business_Code": "424100",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Paper & Paper Products"
+  },
+  {
+    "Business_Code": "424210",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Drugs & Druggists' Sundries"
+  },
+  {
+    "Business_Code": "424300",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Apparel, Piece Goods, & Notions"
+  },
+  {
+    "Business_Code": "424400",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Grocery & Related Products"
+  },
+  {
+    "Business_Code": "424500",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Farm Product Raw Materials"
+  },
+  {
+    "Business_Code": "424600",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Chemical & Allied Products"
+  },
+  {
+    "Business_Code": "424700",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Petroleum & Petroleum Products"
+  },
+  {
+    "Business_Code": "424800",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Beer, Wine, & Distilled Alcoholic Beverages"
+  },
+  {
+    "Business_Code": "424910",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Farm Supplies"
+  },
+  {
+    "Business_Code": "424920",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Books, Periodicals, & Newspapers"
+  },
+  {
+    "Business_Code": "424930",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Flower, Nursery Stock, & Florists' Supplies"
+  },
+  {
+    "Business_Code": "424940",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Tobacco & Tobacco Products"
+  },
+  {
+    "Business_Code": "424950",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Paint, Varnish, & Supplies"
+  },
+  {
+    "Business_Code": "424990",
+    "Main_code": "420000",
+    "GA_code": "424000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Merchant Wholesalers, Nondurable Goods",
+    "Principal_Activity": "Other Miscellaneous Nondurable Goods"
+  },
+  {
+    "Business_Code": "425110",
+    "Main_code": "420000",
+    "GA_code": "425000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Wholesale Electronic Markets and Agents and Brokers",
+    "Principal_Activity": "Business to Business Electronic Markets"
+  },
+  {
+    "Business_Code": "425120",
+    "Main_code": "420000",
+    "GA_code": "425000",
+    "Main_Industry": "Wholesale Trade",
+    "General_Activity": "Wholesale Electronic Markets and Agents and Brokers",
+    "Principal_Activity": "Wholesale Trade Agents & Brokers"
+  },
+  {
+    "Business_Code": "441110",
+    "Main_code": "440000",
+    "GA_code": "441000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Motor Vehicle and Parts Dealers",
+    "Principal_Activity": "New Car Dealers"
+  },
+  {
+    "Business_Code": "441120",
+    "Main_code": "440000",
+    "GA_code": "441000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Motor Vehicle and Parts Dealers",
+    "Principal_Activity": "Used Car Dealers"
+  },
+  {
+    "Business_Code": "441210",
+    "Main_code": "440000",
+    "GA_code": "441000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Motor Vehicle and Parts Dealers",
+    "Principal_Activity": "Recreational Vehicle Dealers"
+  },
+  {
+    "Business_Code": "441221",
+    "Main_code": "440000",
+    "GA_code": "441000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Motor Vehicle and Parts Dealers",
+    "Principal_Activity": "Motorcycle Dealers"
+  },
+  {
+    "Business_Code": "441222",
+    "Main_code": "440000",
+    "GA_code": "441000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Motor Vehicle and Parts Dealers",
+    "Principal_Activity": "Boat Dealers"
+  },
+  {
+    "Business_Code": "441229",
+    "Main_code": "440000",
+    "GA_code": "441000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Motor Vehicle and Parts Dealers",
+    "Principal_Activity": "All Other Motor Vehicle Dealers"
+  },
+  {
+    "Business_Code": "441300",
+    "Main_code": "440000",
+    "GA_code": "441000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Motor Vehicle and Parts Dealers",
+    "Principal_Activity": "Automotive Parts, Accessories, & Tire Stores"
+  },
+  {
+    "Business_Code": "442110",
+    "Main_code": "440000",
+    "GA_code": "442000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Furniture and Home Furnishings Stores",
+    "Principal_Activity": "Furniture Stores"
+  },
+  {
+    "Business_Code": "442210",
+    "Main_code": "440000",
+    "GA_code": "442000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Furniture and Home Furnishings Stores",
+    "Principal_Activity": "Floor Covering Stores"
+  },
+  {
+    "Business_Code": "442291",
+    "Main_code": "440000",
+    "GA_code": "442000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Furniture and Home Furnishings Stores",
+    "Principal_Activity": "Window Treatment Stores"
+  },
+  {
+    "Business_Code": "442299",
+    "Main_code": "440000",
+    "GA_code": "442000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Furniture and Home Furnishings Stores",
+    "Principal_Activity": "All Other Home Furnishings Stores"
+  },
+  {
+    "Business_Code": "443111",
+    "Main_code": "440000",
+    "GA_code": "443000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Electronics and Appliance Stores",
+    "Principal_Activity": "Household Appliance Stores"
+  },
+  {
+    "Business_Code": "443112",
+    "Main_code": "440000",
+    "GA_code": "443000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Electronics and Appliance Stores",
+    "Principal_Activity": "Radio, Television, & Other Electronics Stores"
+  },
+  {
+    "Business_Code": "443120",
+    "Main_code": "440000",
+    "GA_code": "443000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Electronics and Appliance Stores",
+    "Principal_Activity": "Computer & Software Stores"
+  },
+  {
+    "Business_Code": "443130",
+    "Main_code": "440000",
+    "GA_code": "443000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Electronics and Appliance Stores",
+    "Principal_Activity": "Camera & Photographic Supplies Stores"
+  },
+  {
+    "Business_Code": "444110",
+    "Main_code": "440000",
+    "GA_code": "444000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Building Material and Garden Equipment and Supplies Dealers",
+    "Principal_Activity": "Home Centers"
+  },
+  {
+    "Business_Code": "444120",
+    "Main_code": "440000",
+    "GA_code": "444000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Building Material and Garden Equipment and Supplies Dealers",
+    "Principal_Activity": "Paint & Wallpaper Stores"
+  },
+  {
+    "Business_Code": "444130",
+    "Main_code": "440000",
+    "GA_code": "444000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Building Material and Garden Equipment and Supplies Dealers",
+    "Principal_Activity": "Hardware Stores"
+  },
+  {
+    "Business_Code": "444190",
+    "Main_code": "440000",
+    "GA_code": "444000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Building Material and Garden Equipment and Supplies Dealers",
+    "Principal_Activity": "Other Building Material Dealers"
+  },
+  {
+    "Business_Code": "444200",
+    "Main_code": "440000",
+    "GA_code": "444000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Building Material and Garden Equipment and Supplies Dealers",
+    "Principal_Activity": "Lawn & Garden Equipment & Supplies Stores"
+  },
+  {
+    "Business_Code": "445110",
+    "Main_code": "440000",
+    "GA_code": "445000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Food and Beverage Stores",
+    "Principal_Activity": "Supermarkets and Other Grocery (except Convenience) Stores"
+  },
+  {
+    "Business_Code": "445120",
+    "Main_code": "440000",
+    "GA_code": "445000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Food and Beverage Stores",
+    "Principal_Activity": "Convenience Stores"
+  },
+  {
+    "Business_Code": "445210",
+    "Main_code": "440000",
+    "GA_code": "445000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Food and Beverage Stores",
+    "Principal_Activity": "Meat Markets"
+  },
+  {
+    "Business_Code": "445220",
+    "Main_code": "440000",
+    "GA_code": "445000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Food and Beverage Stores",
+    "Principal_Activity": "Fish & Seafood Markets"
+  },
+  {
+    "Business_Code": "445230",
+    "Main_code": "440000",
+    "GA_code": "445000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Food and Beverage Stores",
+    "Principal_Activity": "Fruit & Vegetable Markets"
+  },
+  {
+    "Business_Code": "445291",
+    "Main_code": "440000",
+    "GA_code": "445000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Food and Beverage Stores",
+    "Principal_Activity": "Baked Goods Stores"
+  },
+  {
+    "Business_Code": "445292",
+    "Main_code": "440000",
+    "GA_code": "445000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Food and Beverage Stores",
+    "Principal_Activity": "Confectionery & Nut Stores"
+  },
+  {
+    "Business_Code": "445299",
+    "Main_code": "440000",
+    "GA_code": "445000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Food and Beverage Stores",
+    "Principal_Activity": "All Other Specialty Food Stores"
+  },
+  {
+    "Business_Code": "445310",
+    "Main_code": "440000",
+    "GA_code": "445000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Food and Beverage Stores",
+    "Principal_Activity": "Beer, Wine, & Liquor Stores"
+  },
+  {
+    "Business_Code": "446110",
+    "Main_code": "440000",
+    "GA_code": "446000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Health and Personal Care Stores",
+    "Principal_Activity": "Pharmacies & Drug Stores"
+  },
+  {
+    "Business_Code": "446120",
+    "Main_code": "440000",
+    "GA_code": "446000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Health and Personal Care Stores",
+    "Principal_Activity": "Cosmetics, Beauty Supplies, & Perfume Stores"
+  },
+  {
+    "Business_Code": "446130",
+    "Main_code": "440000",
+    "GA_code": "446000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Health and Personal Care Stores",
+    "Principal_Activity": "Optical Goods Stores"
+  },
+  {
+    "Business_Code": "446190",
+    "Main_code": "440000",
+    "GA_code": "446000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Health and Personal Care Stores",
+    "Principal_Activity": "Other Health & Personal Care Stores"
+  },
+  {
+    "Business_Code": "447100",
+    "Main_code": "440000",
+    "GA_code": "447000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Gasoline Stations",
+    "Principal_Activity": "Gasoline Stations (including convenience stores with gas)"
+  },
+  {
+    "Business_Code": "448110",
+    "Main_code": "440000",
+    "GA_code": "448000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Clothing and Clothing Accessories Stores",
+    "Principal_Activity": "Men's Clothing Stores"
+  },
+  {
+    "Business_Code": "448120",
+    "Main_code": "440000",
+    "GA_code": "448000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Clothing and Clothing Accessories Stores",
+    "Principal_Activity": "Women's Clothing Stores"
+  },
+  {
+    "Business_Code": "448130",
+    "Main_code": "440000",
+    "GA_code": "448000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Clothing and Clothing Accessories Stores",
+    "Principal_Activity": "Children's & Infants' Clothing Stores"
+  },
+  {
+    "Business_Code": "448140",
+    "Main_code": "440000",
+    "GA_code": "448000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Clothing and Clothing Accessories Stores",
+    "Principal_Activity": "Family Clothing Stores"
+  },
+  {
+    "Business_Code": "448150",
+    "Main_code": "440000",
+    "GA_code": "448000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Clothing and Clothing Accessories Stores",
+    "Principal_Activity": "Clothing Accessories Stores"
+  },
+  {
+    "Business_Code": "448190",
+    "Main_code": "440000",
+    "GA_code": "448000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Clothing and Clothing Accessories Stores",
+    "Principal_Activity": "Other Clothing Stores"
+  },
+  {
+    "Business_Code": "448210",
+    "Main_code": "440000",
+    "GA_code": "448000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Clothing and Clothing Accessories Stores",
+    "Principal_Activity": "Shoe Stores"
+  },
+  {
+    "Business_Code": "448310",
+    "Main_code": "440000",
+    "GA_code": "448000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Clothing and Clothing Accessories Stores",
+    "Principal_Activity": "Jewelry Stores"
+  },
+  {
+    "Business_Code": "448320",
+    "Main_code": "440000",
+    "GA_code": "448000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Clothing and Clothing Accessories Stores",
+    "Principal_Activity": "Luggage & Leather Goods Stores"
+  },
+  {
+    "Business_Code": "451110",
+    "Main_code": "450000",
+    "GA_code": "451000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Sporting Goods, Hobby, Book, and Music Stores",
+    "Principal_Activity": "Sporting Goods Stores"
+  },
+  {
+    "Business_Code": "451120",
+    "Main_code": "450000",
+    "GA_code": "451000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Sporting Goods, Hobby, Book, and Music Stores",
+    "Principal_Activity": "Hobby, Toy, & Game Stores"
+  },
+  {
+    "Business_Code": "451130",
+    "Main_code": "450000",
+    "GA_code": "451000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Sporting Goods, Hobby, Book, and Music Stores",
+    "Principal_Activity": "Sewing, Needlework, & Piece Goods Stores"
+  },
+  {
+    "Business_Code": "451140",
+    "Main_code": "450000",
+    "GA_code": "451000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Sporting Goods, Hobby, Book, and Music Stores",
+    "Principal_Activity": "Musical Instrument & Supplies Stores"
+  },
+  {
+    "Business_Code": "451211",
+    "Main_code": "450000",
+    "GA_code": "451000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Sporting Goods, Hobby, Book, and Music Stores",
+    "Principal_Activity": "Book Stores"
+  },
+  {
+    "Business_Code": "451212",
+    "Main_code": "450000",
+    "GA_code": "451000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Sporting Goods, Hobby, Book, and Music Stores",
+    "Principal_Activity": "News Dealers & Newsstands"
+  },
+  {
+    "Business_Code": "451220",
+    "Main_code": "450000",
+    "GA_code": "451000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Sporting Goods, Hobby, Book, and Music Stores",
+    "Principal_Activity": "Prerecorded Tape, Compact Disc, & Record Stores"
+  },
+  {
+    "Business_Code": "452110",
+    "Main_code": "450000",
+    "GA_code": "452000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "General Merchandise Stores",
+    "Principal_Activity": "Department Stores"
+  },
+  {
+    "Business_Code": "452900",
+    "Main_code": "450000",
+    "GA_code": "452000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "General Merchandise Stores",
+    "Principal_Activity": "Other General Merchandise Stores"
+  },
+  {
+    "Business_Code": "453110",
+    "Main_code": "450000",
+    "GA_code": "453000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Miscellaneous Store Retailers",
+    "Principal_Activity": "Florists"
+  },
+  {
+    "Business_Code": "453210",
+    "Main_code": "450000",
+    "GA_code": "453000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Miscellaneous Store Retailers",
+    "Principal_Activity": "Office Supplies & Stationery Stores"
+  },
+  {
+    "Business_Code": "453220",
+    "Main_code": "450000",
+    "GA_code": "453000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Miscellaneous Store Retailers",
+    "Principal_Activity": "Gift, Novelty, & Souvenir Stores"
+  },
+  {
+    "Business_Code": "453310",
+    "Main_code": "450000",
+    "GA_code": "453000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Miscellaneous Store Retailers",
+    "Principal_Activity": "Used Merchandise Stores"
+  },
+  {
+    "Business_Code": "453910",
+    "Main_code": "450000",
+    "GA_code": "453000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Miscellaneous Store Retailers",
+    "Principal_Activity": "Pet & Pet Supplies Stores"
+  },
+  {
+    "Business_Code": "453920",
+    "Main_code": "450000",
+    "GA_code": "453000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Miscellaneous Store Retailers",
+    "Principal_Activity": "Art Dealers"
+  },
+  {
+    "Business_Code": "453930",
+    "Main_code": "450000",
+    "GA_code": "453000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Miscellaneous Store Retailers",
+    "Principal_Activity": "Manufactured (Mobile) Home Dealers"
+  },
+  {
+    "Business_Code": "453990",
+    "Main_code": "450000",
+    "GA_code": "453000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Miscellaneous Store Retailers",
+    "Principal_Activity": "All Other Miscellaneous Store Retailers (including tobacco, candle, & trophy shops)"
+  },
+  {
+    "Business_Code": "454110",
+    "Main_code": "450000",
+    "GA_code": "454000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Nonstore Retailers",
+    "Principal_Activity": "Electronic Shopping & Mail"
+  },
+  {
+    "Business_Code": "454210",
+    "Main_code": "450000",
+    "GA_code": "454000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Nonstore Retailers",
+    "Principal_Activity": "Vending Machine Operators"
+  },
+  {
+    "Business_Code": "454311",
+    "Main_code": "450000",
+    "GA_code": "454000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Nonstore Retailers",
+    "Principal_Activity": "Heating Oil Dealers"
+  },
+  {
+    "Business_Code": "454312",
+    "Main_code": "450000",
+    "GA_code": "454000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Nonstore Retailers",
+    "Principal_Activity": "Liquefied Petroleum Gas (bottled gas) Dealers"
+  },
+  {
+    "Business_Code": "454319",
+    "Main_code": "450000",
+    "GA_code": "454000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Nonstore Retailers",
+    "Principal_Activity": "Other Fuel Dealers"
+  },
+  {
+    "Business_Code": "454390",
+    "Main_code": "450000",
+    "GA_code": "454000",
+    "Main_Industry": "Retail Trade",
+    "General_Activity": "Nonstore Retailers",
+    "Principal_Activity": "Other Direct Selling Establishments (including door-to-'door retailing, frozen food plan providers, party plan merchandisers, & coffee-break service providers)"
+  },
+  {
+    "Business_Code": "481000",
+    "Main_code": "480000",
+    "GA_code": "481000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Air, Rail, and Water Transportation",
+    "Principal_Activity": "Air Transportation"
+  },
+  {
+    "Business_Code": "482110",
+    "Main_code": "480000",
+    "GA_code": "482000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Air, Rail, and Water Transportation",
+    "Principal_Activity": "Rail Transportation"
+  },
+  {
+    "Business_Code": "483000",
+    "Main_code": "480000",
+    "GA_code": "483000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Air, Rail, and Water Transportation",
+    "Principal_Activity": "Water Transportation"
+  },
+  {
+    "Business_Code": "484110",
+    "Main_code": "480000",
+    "GA_code": "484000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Truck Transportation",
+    "Principal_Activity": "General Freight Trucking, Local"
+  },
+  {
+    "Business_Code": "484120",
+    "Main_code": "480000",
+    "GA_code": "484000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Truck Transportation",
+    "Principal_Activity": "General Freight Trucking, Long"
+  },
+  {
+    "Business_Code": "484200",
+    "Main_code": "480000",
+    "GA_code": "484000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Truck Transportation",
+    "Principal_Activity": "Specialized Freight Trucking"
+  },
+  {
+    "Business_Code": "485110",
+    "Main_code": "480000",
+    "GA_code": "485000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Transit and Ground Passenger Transportation",
+    "Principal_Activity": "Urban Transit Systems"
+  },
+  {
+    "Business_Code": "485210",
+    "Main_code": "480000",
+    "GA_code": "485000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Transit and Ground Passenger Transportation",
+    "Principal_Activity": "Interurban & Rural Bus Transportation"
+  },
+  {
+    "Business_Code": "485310",
+    "Main_code": "480000",
+    "GA_code": "485000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Transit and Ground Passenger Transportation",
+    "Principal_Activity": "Taxi Service"
+  },
+  {
+    "Business_Code": "485320",
+    "Main_code": "480000",
+    "GA_code": "485000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Transit and Ground Passenger Transportation",
+    "Principal_Activity": "Limousine Service"
+  },
+  {
+    "Business_Code": "485410",
+    "Main_code": "480000",
+    "GA_code": "485000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Transit and Ground Passenger Transportation",
+    "Principal_Activity": "School & Employee Bus Transportation"
+  },
+  {
+    "Business_Code": "485510",
+    "Main_code": "480000",
+    "GA_code": "485000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Transit and Ground Passenger Transportation",
+    "Principal_Activity": "Charter Bus Industry"
+  },
+  {
+    "Business_Code": "485990",
+    "Main_code": "480000",
+    "GA_code": "485000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Transit and Ground Passenger Transportation",
+    "Principal_Activity": "Other Transit & Ground Passenger Transportation"
+  },
+  {
+    "Business_Code": "486000",
+    "Main_code": "480000",
+    "GA_code": "486000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Pipeline Transportation",
+    "Principal_Activity": "Pipeline Transportation"
+  },
+  {
+    "Business_Code": "487000",
+    "Main_code": "480000",
+    "GA_code": "487000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Scenic & Sightseeing Transportation",
+    "Principal_Activity": "Scenic & Sightseeing Transportation"
+  },
+  {
+    "Business_Code": "488100",
+    "Main_code": "480000",
+    "GA_code": "488000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Support Activities for Transportation",
+    "Principal_Activity": "Support Activities for Air Transportation"
+  },
+  {
+    "Business_Code": "488210",
+    "Main_code": "480000",
+    "GA_code": "488000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Support Activities for Transportation",
+    "Principal_Activity": "Support Activities for Rail Transportation"
+  },
+  {
+    "Business_Code": "488300",
+    "Main_code": "480000",
+    "GA_code": "488000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Support Activities for Transportation",
+    "Principal_Activity": "Support Activities for Water Transportation"
+  },
+  {
+    "Business_Code": "488410",
+    "Main_code": "480000",
+    "GA_code": "488000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Support Activities for Transportation",
+    "Principal_Activity": "Motor Vehicle Towing"
+  },
+  {
+    "Business_Code": "488490",
+    "Main_code": "480000",
+    "GA_code": "488000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Support Activities for Transportation",
+    "Principal_Activity": "Other Support Activities for Road Transportation"
+  },
+  {
+    "Business_Code": "488510",
+    "Main_code": "480000",
+    "GA_code": "488000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Support Activities for Transportation",
+    "Principal_Activity": "Freight Transportation Arrangement"
+  },
+  {
+    "Business_Code": "488990",
+    "Main_code": "480000",
+    "GA_code": "488000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Support Activities for Transportation",
+    "Principal_Activity": "Other Support Activities for Transportation"
+  },
+  {
+    "Business_Code": "492110",
+    "Main_code": "490000",
+    "GA_code": "492000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Couriers and Messengers",
+    "Principal_Activity": "Couriers"
+  },
+  {
+    "Business_Code": "492210",
+    "Main_code": "490000",
+    "GA_code": "492000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Couriers and Messengers",
+    "Principal_Activity": "Local Messengers & Local Delivery"
+  },
+  {
+    "Business_Code": "493100",
+    "Main_code": "490000",
+    "GA_code": "493000",
+    "Main_Industry": "Transportation and Warehousing",
+    "General_Activity": "Warehousing and Storage",
+    "Principal_Activity": "Warehousing & Storage (except lessors of miniwarehouses & self"
+  },
+  {
+    "Business_Code": "511110",
+    "Main_code": "510000",
+    "GA_code": "511000",
+    "Main_Industry": "Information",
+    "General_Activity": "Publishing Industries (except Internet)",
+    "Principal_Activity": "Newspaper Publishers"
+  },
+  {
+    "Business_Code": "511120",
+    "Main_code": "510000",
+    "GA_code": "511000",
+    "Main_Industry": "Information",
+    "General_Activity": "Publishing Industries (except Internet)",
+    "Principal_Activity": "Periodical Publishers"
+  },
+  {
+    "Business_Code": "511130",
+    "Main_code": "510000",
+    "GA_code": "511000",
+    "Main_Industry": "Information",
+    "General_Activity": "Publishing Industries (except Internet)",
+    "Principal_Activity": "Book Publishers"
+  },
+  {
+    "Business_Code": "511140",
+    "Main_code": "510000",
+    "GA_code": "511000",
+    "Main_Industry": "Information",
+    "General_Activity": "Publishing Industries (except Internet)",
+    "Principal_Activity": "Directory & Mailing List Publishers"
+  },
+  {
+    "Business_Code": "511190",
+    "Main_code": "510000",
+    "GA_code": "511000",
+    "Main_Industry": "Information",
+    "General_Activity": "Publishing Industries (except Internet)",
+    "Principal_Activity": "Other Publishers"
+  },
+  {
+    "Business_Code": "511210",
+    "Main_code": "510000",
+    "GA_code": "511000",
+    "Main_Industry": "Information",
+    "General_Activity": "Publishing Industries (except Internet)",
+    "Principal_Activity": "Software Publishers"
+  },
+  {
+    "Business_Code": "512100",
+    "Main_code": "510000",
+    "GA_code": "512000",
+    "Main_Industry": "Information",
+    "General_Activity": "Motion Picture and Sound Recording Industries",
+    "Principal_Activity": "Motion Picture & Video Industries (except video rental)"
+  },
+  {
+    "Business_Code": "512200",
+    "Main_code": "510000",
+    "GA_code": "512000",
+    "Main_Industry": "Information",
+    "General_Activity": "Motion Picture and Sound Recording Industries",
+    "Principal_Activity": "Sound Recording Industries"
+  },
+  {
+    "Business_Code": "515100",
+    "Main_code": "510000",
+    "GA_code": "515000",
+    "Main_Industry": "Information",
+    "General_Activity": "Broadcasting (except Internet)",
+    "Principal_Activity": "Radio & Television Broadcasting"
+  },
+  {
+    "Business_Code": "515210",
+    "Main_code": "510000",
+    "GA_code": "515000",
+    "Main_Industry": "Information",
+    "General_Activity": "Broadcasting (except Internet)",
+    "Principal_Activity": "Cable & Other Subscription Programming"
+  },
+  {
+    "Business_Code": "517000",
+    "Main_code": "510000",
+    "GA_code": "517000",
+    "Main_Industry": "Information",
+    "General_Activity": "Telecommunications",
+    "Principal_Activity": "Telecommunications (including paging, cellular, satellite, cable & other program distribution, resellers, other telecommunications, & internet service providers)"
+  },
+  {
+    "Business_Code": "518210",
+    "Main_code": "510000",
+    "GA_code": "518000",
+    "Main_Industry": "Information",
+    "General_Activity": "Data Processing Services",
+    "Principal_Activity": "Data Processing, Hosting, & Related Services"
+  },
+  {
+    "Business_Code": "519100",
+    "Main_code": "510000",
+    "GA_code": "519000",
+    "Main_Industry": "Information",
+    "General_Activity": "Other Information Services",
+    "Principal_Activity": "Other Information Services (including news syndicates, libraries, internet publishing & broadcasting)"
+  },
+  {
+    "Business_Code": "522110",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Depository Credit Intermediation",
+    "Principal_Activity": "Commercial Banking"
+  },
+  {
+    "Business_Code": "522120",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Depository Credit Intermediation",
+    "Principal_Activity": "Savings Institutions"
+  },
+  {
+    "Business_Code": "522130",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Depository Credit Intermediation",
+    "Principal_Activity": "Credit Unions"
+  },
+  {
+    "Business_Code": "522190",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Depository Credit Intermediation",
+    "Principal_Activity": "Other Depository Credit Intermediation"
+  },
+  {
+    "Business_Code": "522210",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Nondepository Credit Intermediation",
+    "Principal_Activity": "Credit Card Issuing"
+  },
+  {
+    "Business_Code": "522220",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Nondepository Credit Intermediation",
+    "Principal_Activity": "Sales Financing"
+  },
+  {
+    "Business_Code": "522291",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Nondepository Credit Intermediation",
+    "Principal_Activity": "Consumer Lending"
+  },
+  {
+    "Business_Code": "522292",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Nondepository Credit Intermediation",
+    "Principal_Activity": "Real Estate Credit (including mortgage bankers & originators)"
+  },
+  {
+    "Business_Code": "522293",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Nondepository Credit Intermediation",
+    "Principal_Activity": "International Trade Financing"
+  },
+  {
+    "Business_Code": "522294",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Nondepository Credit Intermediation",
+    "Principal_Activity": "Secondary Market Financing"
+  },
+  {
+    "Business_Code": "522298",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Nondepository Credit Intermediation",
+    "Principal_Activity": "All Other Nondepository Credit Intermediation"
+  },
+  {
+    "Business_Code": "522300",
+    "Main_code": "520000",
+    "GA_code": "522000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Activities Related to Credit Intermediation",
+    "Principal_Activity": "Activities Related to Credit Intermediation (including loan brokers, check clearing, & money transmitting)"
+  },
+  {
+    "Business_Code": "523110",
+    "Main_code": "520000",
+    "GA_code": "523000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+    "Principal_Activity": "Investment Banking & Securities Dealing"
+  },
+  {
+    "Business_Code": "523120",
+    "Main_code": "520000",
+    "GA_code": "523000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+    "Principal_Activity": "Securities Brokerage"
+  },
+  {
+    "Business_Code": "523130",
+    "Main_code": "520000",
+    "GA_code": "523000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+    "Principal_Activity": "Commodity Contracts Dealing"
+  },
+  {
+    "Business_Code": "523140",
+    "Main_code": "520000",
+    "GA_code": "523000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+    "Principal_Activity": "Commodity Contracts Brokerage"
+  },
+  {
+    "Business_Code": "523210",
+    "Main_code": "520000",
+    "GA_code": "523000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+    "Principal_Activity": "Securities & Commodity Exchanges"
+  },
+  {
+    "Business_Code": "523900",
+    "Main_code": "520000",
+    "GA_code": "523000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Securities, Commodity Contracts, and Other Financial Investments and Related Activities",
+    "Principal_Activity": "Other Financial Investment Activities (including portfolio management & investment advice)"
+  },
+  {
+    "Business_Code": "524140",
+    "Main_code": "520000",
+    "GA_code": "524000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Insurance Carriers and Related Activities",
+    "Principal_Activity": "Direct Life, Health, & Medical Insurance & Reinsurance Carriers"
+  },
+  {
+    "Business_Code": "524150",
+    "Main_code": "520000",
+    "GA_code": "524000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Insurance Carriers and Related Activities",
+    "Principal_Activity": "Direct Insurance & Reinsurance (except Life, Health & Medical) Carriers"
+  },
+  {
+    "Business_Code": "524210",
+    "Main_code": "520000",
+    "GA_code": "524000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Insurance Carriers and Related Activities",
+    "Principal_Activity": "Insurance Agencies & Brokerages"
+  },
+  {
+    "Business_Code": "524290",
+    "Main_code": "520000",
+    "GA_code": "524000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Insurance Carriers and Related Activities",
+    "Principal_Activity": "Other Insurance Related Activities (including third"
+  },
+  {
+    "Business_Code": "525100",
+    "Main_code": "520000",
+    "GA_code": "525000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Funds, Trusts, and Other Financial Vehicles",
+    "Principal_Activity": "Insurance & Employee Benefit Funds"
+  },
+  {
+    "Business_Code": "525910",
+    "Main_code": "520000",
+    "GA_code": "525000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Funds, Trusts, and Other Financial Vehicles",
+    "Principal_Activity": "Open-End Investment Funds (Form 1120-RIC)"
+  },
+  {
+    "Business_Code": "525920",
+    "Main_code": "520000",
+    "GA_code": "525000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Funds, Trusts, and Other Financial Vehicles",
+    "Principal_Activity": "Trusts, Estates, & Agency Accounts"
+  },
+  {
+    "Business_Code": "525990",
+    "Main_code": "520000",
+    "GA_code": "525000",
+    "Main_Industry": "Finance and Insurance",
+    "General_Activity": "Funds, Trusts, and Other Financial Vehicles",
+    "Principal_Activity": "Other Financial Vehicles (including mortgage REITs & closed"
+  },
+  {
+    "Business_Code": "531110",
+    "Main_code": "530000",
+    "GA_code": "531000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Real Estate",
+    "Principal_Activity": "Lessors of Residential Buildings & Dwellings (including equity REITs)"
+  },
+  {
+    "Business_Code": "531114",
+    "Main_code": "530000",
+    "GA_code": "531000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Real Estate",
+    "Principal_Activity": "Cooperative Housing (including equity REITs)"
+  },
+  {
+    "Business_Code": "531120",
+    "Main_code": "530000",
+    "GA_code": "531000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Real Estate",
+    "Principal_Activity": "Lessors of Nonresidential Buildings (except Miniwarehouses) (including equity REITs)"
+  },
+  {
+    "Business_Code": "531130",
+    "Main_code": "530000",
+    "GA_code": "531000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Real Estate",
+    "Principal_Activity": "Lessors of Miniwarehouses & Self"
+  },
+  {
+    "Business_Code": "531190",
+    "Main_code": "530000",
+    "GA_code": "531000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Real Estate",
+    "Principal_Activity": "Lessors of Other Real Estate Property (including equity REITs)"
+  },
+  {
+    "Business_Code": "531210",
+    "Main_code": "530000",
+    "GA_code": "531000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Real Estate",
+    "Principal_Activity": "Offices of Real Estate Agents & Brokers"
+  },
+  {
+    "Business_Code": "531310",
+    "Main_code": "530000",
+    "GA_code": "531000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Real Estate",
+    "Principal_Activity": "Real Estate Property Managers"
+  },
+  {
+    "Business_Code": "531320",
+    "Main_code": "530000",
+    "GA_code": "531000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Real Estate",
+    "Principal_Activity": "Offices of Real Estate Appraisers"
+  },
+  {
+    "Business_Code": "531390",
+    "Main_code": "530000",
+    "GA_code": "531000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Real Estate",
+    "Principal_Activity": "Other Activities Related to Real Estate"
+  },
+  {
+    "Business_Code": "532100",
+    "Main_code": "530000",
+    "GA_code": "532000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Rental and Leasing Services",
+    "Principal_Activity": "Automotive Equipment Rental & Leasing"
+  },
+  {
+    "Business_Code": "532210",
+    "Main_code": "530000",
+    "GA_code": "532000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Rental and Leasing Services",
+    "Principal_Activity": "Consumer Electronics & Appliances Rental"
+  },
+  {
+    "Business_Code": "532220",
+    "Main_code": "530000",
+    "GA_code": "532000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Rental and Leasing Services",
+    "Principal_Activity": "Formal Wear & Costume Rental"
+  },
+  {
+    "Business_Code": "532230",
+    "Main_code": "530000",
+    "GA_code": "532000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Rental and Leasing Services",
+    "Principal_Activity": "Video Tape & Disc Rental"
+  },
+  {
+    "Business_Code": "532290",
+    "Main_code": "530000",
+    "GA_code": "532000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Rental and Leasing Services",
+    "Principal_Activity": "Other Consumer Goods Rental"
+  },
+  {
+    "Business_Code": "532310",
+    "Main_code": "530000",
+    "GA_code": "532000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Rental and Leasing Services",
+    "Principal_Activity": "General Rental Centers"
+  },
+  {
+    "Business_Code": "532400",
+    "Main_code": "530000",
+    "GA_code": "532000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Rental and Leasing Services",
+    "Principal_Activity": "Commercial & Industrial Machinery & Equipment Rental & Leasing"
+  },
+  {
+    "Business_Code": "533110",
+    "Main_code": "530000",
+    "GA_code": "533000",
+    "Main_Industry": "Real Estate and Rental and Leasing",
+    "General_Activity": "Lessors of Nonfinancial Intangible Assets (except copyrighted works)",
+    "Principal_Activity": "Lessors of Nonfinancial Intangible Assets (except copyrighted works)"
+  },
+  {
+    "Business_Code": "541110",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Legal Services",
+    "Principal_Activity": "Offices of Lawyers"
+  },
+  {
+    "Business_Code": "541190",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Legal Services",
+    "Principal_Activity": "Other Legal Services"
+  },
+  {
+    "Business_Code": "541211",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+    "Principal_Activity": "Offices of Certified Public Accountants"
+  },
+  {
+    "Business_Code": "541213",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+    "Principal_Activity": "Tax Preparation Services"
+  },
+  {
+    "Business_Code": "541214",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+    "Principal_Activity": "Payroll Services"
+  },
+  {
+    "Business_Code": "541219",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+    "Principal_Activity": "Other Accounting Services"
+  },
+  {
+    "Business_Code": "541310",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Architectural, Engineering, and Related Services",
+    "Principal_Activity": "Architectural Services"
+  },
+  {
+    "Business_Code": "541320",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Architectural, Engineering, and Related Services",
+    "Principal_Activity": "Landscape Architecture Services"
+  },
+  {
+    "Business_Code": "541330",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Architectural, Engineering, and Related Services",
+    "Principal_Activity": "Engineering Services"
+  },
+  {
+    "Business_Code": "541340",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Architectural, Engineering, and Related Services",
+    "Principal_Activity": "Drafting Services"
+  },
+  {
+    "Business_Code": "541350",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Architectural, Engineering, and Related Services",
+    "Principal_Activity": "Building Inspection Services"
+  },
+  {
+    "Business_Code": "541360",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Architectural, Engineering, and Related Services",
+    "Principal_Activity": "Geophysical Surveying & Mapping Services"
+  },
+  {
+    "Business_Code": "541370",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Architectural, Engineering, and Related Services",
+    "Principal_Activity": "Surveying & Mapping (except Geophysical) Services"
+  },
+  {
+    "Business_Code": "541380",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Architectural, Engineering, and Related Services",
+    "Principal_Activity": "Testing Laboratories"
+  },
+  {
+    "Business_Code": "541400",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Specialized Design Services",
+    "Principal_Activity": "Specialized Design Services (including interior, industrial, graphic, & fashion design)"
+  },
+  {
+    "Business_Code": "541511",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Computer Systems Design and Related Services",
+    "Principal_Activity": "Custom Computer Programming Services"
+  },
+  {
+    "Business_Code": "541512",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Computer Systems Design and Related Services",
+    "Principal_Activity": "Computer Systems Design Services"
+  },
+  {
+    "Business_Code": "541513",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Computer Systems Design and Related Services",
+    "Principal_Activity": "Computer Facilities Management Services"
+  },
+  {
+    "Business_Code": "541519",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Computer Systems Design and Related Services",
+    "Principal_Activity": "Other Computer Related Services"
+  },
+  {
+    "Business_Code": "541600",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Other Professional, Scientific, and Technical Services",
+    "Principal_Activity": "Management, Scientific, & Technical Consulting Services"
+  },
+  {
+    "Business_Code": "541700",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Other Professional, Scientific, and Technical Services",
+    "Principal_Activity": "Scientific Research & Development Services"
+  },
+  {
+    "Business_Code": "541800",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Other Professional, Scientific, and Technical Services",
+    "Principal_Activity": "Advertising & Related Services"
+  },
+  {
+    "Business_Code": "541910",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Other Professional, Scientific, and Technical Services",
+    "Principal_Activity": "Marketing Research & Public Opinion Polling"
+  },
+  {
+    "Business_Code": "541920",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Other Professional, Scientific, and Technical Services",
+    "Principal_Activity": "Photographic Services"
+  },
+  {
+    "Business_Code": "541930",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Other Professional, Scientific, and Technical Services",
+    "Principal_Activity": "Translation & Interpretation Services"
+  },
+  {
+    "Business_Code": "541940",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Other Professional, Scientific, and Technical Services",
+    "Principal_Activity": "Veterinary Services"
+  },
+  {
+    "Business_Code": "541990",
+    "Main_code": "540000",
+    "GA_code": "541000",
+    "Main_Industry": "Professional, Scientific, and Technical Services",
+    "General_Activity": "Other Professional, Scientific, and Technical Services",
+    "Principal_Activity": "All Other Professional, Scientific, & Technical Services"
+  },
+  {
+    "Business_Code": "551111",
+    "Main_code": "550000",
+    "GA_code": "551000",
+    "Main_Industry": "Management of Companies (Holding Companies)",
+    "General_Activity": "Management of Companies (Holding Companies)",
+    "Principal_Activity": "Offices of Bank Holding Companies"
+  },
+  {
+    "Business_Code": "551112",
+    "Main_code": "550000",
+    "GA_code": "551000",
+    "Main_Industry": "Management of Companies (Holding Companies)",
+    "General_Activity": "Management of Companies (Holding Companies)",
+    "Principal_Activity": "Offices of Other Holding Companies"
+  },
+  {
+    "Business_Code": "561110",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Office Administrative Services"
+  },
+  {
+    "Business_Code": "561210",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Facilities Support Services"
+  },
+  {
+    "Business_Code": "561300",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Employment Services"
+  },
+  {
+    "Business_Code": "561410",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Document Preparation Services"
+  },
+  {
+    "Business_Code": "561420",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Telephone Call Centers"
+  },
+  {
+    "Business_Code": "561430",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Business Service Centers (including private mail centers & copy shops)"
+  },
+  {
+    "Business_Code": "561440",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Collection Agencies"
+  },
+  {
+    "Business_Code": "561450",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Credit Bureaus"
+  },
+  {
+    "Business_Code": "561490",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Other Business Support Services (including repossession services, court reporting, & stenotype services)"
+  },
+  {
+    "Business_Code": "561500",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Travel Arrangement & Reservation Services"
+  },
+  {
+    "Business_Code": "561600",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Investigation & Security Services"
+  },
+  {
+    "Business_Code": "561710",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Exterminating & Pest Control Services"
+  },
+  {
+    "Business_Code": "561720",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Janitorial Services"
+  },
+  {
+    "Business_Code": "561730",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Landscaping Services"
+  },
+  {
+    "Business_Code": "561740",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Carpet & Upholstery Cleaning Services"
+  },
+  {
+    "Business_Code": "561790",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Other Services to Buildings & Dwellings"
+  },
+  {
+    "Business_Code": "561900",
+    "Main_code": "560000",
+    "GA_code": "561000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Administrative and Support Services",
+    "Principal_Activity": "Other Support Services (including packaging & labeling services, & convention & trade show organizers)"
+  },
+  {
+    "Business_Code": "562000",
+    "Main_code": "560000",
+    "GA_code": "562000",
+    "Main_Industry": "Administrative and Support and Waste Management and Remediation Services",
+    "General_Activity": "Waste Management and Remediation Services",
+    "Principal_Activity": "Waste Management & Remediation Services"
+  },
+  {
+    "Business_Code": "611000",
+    "Main_code": "610000",
+    "GA_code": "611000",
+    "Main_Industry": "Educational Services",
+    "General_Activity": "Educational Services",
+    "Principal_Activity": "Educational Services (including schools, colleges, & universities)"
+  },
+  {
+    "Business_Code": "621111",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Offices of Physicians and Dentists",
+    "Principal_Activity": "Offices of Physicians (except mental health specialists)"
+  },
+  {
+    "Business_Code": "621112",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Offices of Physicians and Dentists",
+    "Principal_Activity": "Offices of Physicians, Mental Health Specialists"
+  },
+  {
+    "Business_Code": "621210",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Offices of Physicians and Dentists",
+    "Principal_Activity": "Offices of Dentists"
+  },
+  {
+    "Business_Code": "621310",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Offices of Other Health Practitioners",
+    "Principal_Activity": "Offices of Chiropractors"
+  },
+  {
+    "Business_Code": "621320",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Offices of Other Health Practitioners",
+    "Principal_Activity": "Offices of Optometrists"
+  },
+  {
+    "Business_Code": "621330",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Offices of Other Health Practitioners",
+    "Principal_Activity": "Offices of Mental Health Practitioners (except Physicians)"
+  },
+  {
+    "Business_Code": "621340",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Offices of Other Health Practitioners",
+    "Principal_Activity": "Offices of Physical, Occupational & Speech Therapists, & Audiologists"
+  },
+  {
+    "Business_Code": "621391",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Offices of Other Health Practitioners",
+    "Principal_Activity": "Offices of Podiatrists"
+  },
+  {
+    "Business_Code": "621399",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Offices of Other Health Practitioners",
+    "Principal_Activity": "Offices of All Other Miscellaneous Health Practitioners"
+  },
+  {
+    "Business_Code": "621410",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Outpatient Care Centers",
+    "Principal_Activity": "Family Planning Centers"
+  },
+  {
+    "Business_Code": "621420",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Outpatient Care Centers",
+    "Principal_Activity": "Outpatient Mental Health & Substance Abuse Centers"
+  },
+  {
+    "Business_Code": "621491",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Outpatient Care Centers",
+    "Principal_Activity": "HMO Medical Centers"
+  },
+  {
+    "Business_Code": "621492",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Outpatient Care Centers",
+    "Principal_Activity": "Kidney Dialysis Centers"
+  },
+  {
+    "Business_Code": "621493",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Outpatient Care Centers",
+    "Principal_Activity": "Freestanding Ambulatory Surgical & Emergency Centers"
+  },
+  {
+    "Business_Code": "621498",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Outpatient Care Centers",
+    "Principal_Activity": "All Other Outpatient Care Centers"
+  },
+  {
+    "Business_Code": "621510",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Medical and Diagnostic Laboratories",
+    "Principal_Activity": "Medical & Diagnostic Laboratories"
+  },
+  {
+    "Business_Code": "621610",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Home Health Care Services",
+    "Principal_Activity": "Home Health Care Services"
+  },
+  {
+    "Business_Code": "621900",
+    "Main_code": "620000",
+    "GA_code": "621000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Other Ambulatory Health Care Services",
+    "Principal_Activity": "Other Ambulatory Health Care Services (including ambulance services & blood & organ banks)"
+  },
+  {
+    "Business_Code": "622000",
+    "Main_code": "620000",
+    "GA_code": "622000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Hospitals",
+    "Principal_Activity": "Hospitals"
+  },
+  {
+    "Business_Code": "623000",
+    "Main_code": "620000",
+    "GA_code": "623000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Nursing and Residential Care Facilities",
+    "Principal_Activity": "Nursing & Residential Care Facilities"
+  },
+  {
+    "Business_Code": "624100",
+    "Main_code": "620000",
+    "GA_code": "624000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Social Assistance",
+    "Principal_Activity": "Individual & Family Services"
+  },
+  {
+    "Business_Code": "624200",
+    "Main_code": "620000",
+    "GA_code": "624000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Social Assistance",
+    "Principal_Activity": "Community Food & Housing, & Emergency & Other Relief Services"
+  },
+  {
+    "Business_Code": "624310",
+    "Main_code": "620000",
+    "GA_code": "624000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Social Assistance",
+    "Principal_Activity": "Vocational Rehabilitation Services"
+  },
+  {
+    "Business_Code": "624410",
+    "Main_code": "620000",
+    "GA_code": "624000",
+    "Main_Industry": "Health Care and Social Assistance",
+    "General_Activity": "Social Assistance",
+    "Principal_Activity": "Child Day Care Services"
+  },
+  {
+    "Business_Code": "711100",
+    "Main_code": "710000",
+    "GA_code": "711000",
+    "Main_Industry": "Arts, Entertainment, and Recreation",
+    "General_Activity": "Performing Arts, Spectator Sports, and Related Industries",
+    "Principal_Activity": "Performing Arts Companies"
+  },
+  {
+    "Business_Code": "711210",
+    "Main_code": "710000",
+    "GA_code": "711000",
+    "Main_Industry": "Arts, Entertainment, and Recreation",
+    "General_Activity": "Performing Arts, Spectator Sports, and Related Industries",
+    "Principal_Activity": "Spectator Sports (including sports clubs & racetracks)"
+  },
+  {
+    "Business_Code": "711300",
+    "Main_code": "710000",
+    "GA_code": "711000",
+    "Main_Industry": "Arts, Entertainment, and Recreation",
+    "General_Activity": "Performing Arts, Spectator Sports, and Related Industries",
+    "Principal_Activity": "Promoters of Performing Arts, Sports, & Similar Events"
+  },
+  {
+    "Business_Code": "711410",
+    "Main_code": "710000",
+    "GA_code": "711000",
+    "Main_Industry": "Arts, Entertainment, and Recreation",
+    "General_Activity": "Performing Arts, Spectator Sports, and Related Industries",
+    "Principal_Activity": "Agents & Managers for Artists, Athletes, Entertainers, & Other Public Figures"
+  },
+  {
+    "Business_Code": "711510",
+    "Main_code": "710000",
+    "GA_code": "711000",
+    "Main_Industry": "Arts, Entertainment, and Recreation",
+    "General_Activity": "Performing Arts, Spectator Sports, and Related Industries",
+    "Principal_Activity": "Independent Artists, Writers, & Performers"
+  },
+  {
+    "Business_Code": "712100",
+    "Main_code": "710000",
+    "GA_code": "712000",
+    "Main_Industry": "Arts, Entertainment, and Recreation",
+    "General_Activity": "Museums, Historical Sites, and Similar Institutions",
+    "Principal_Activity": "Museums, Historical Sites, & Similar Institutions"
+  },
+  {
+    "Business_Code": "713100",
+    "Main_code": "710000",
+    "GA_code": "713000",
+    "Main_Industry": "Arts, Entertainment, and Recreation",
+    "General_Activity": "Amusement, Gambling, and Recreation Industries",
+    "Principal_Activity": "Amusement Parks & Arcades"
+  },
+  {
+    "Business_Code": "713200",
+    "Main_code": "710000",
+    "GA_code": "713000",
+    "Main_Industry": "Arts, Entertainment, and Recreation",
+    "General_Activity": "Amusement, Gambling, and Recreation Industries",
+    "Principal_Activity": "Gambling Industries"
+  },
+  {
+    "Business_Code": "713900",
+    "Main_code": "710000",
+    "GA_code": "713000",
+    "Main_Industry": "Arts, Entertainment, and Recreation",
+    "General_Activity": "Amusement, Gambling, and Recreation Industries",
+    "Principal_Activity": "Other Amusement & Recreation Industries (including golf courses, skiing facilities, marinas, fitness centers, & bowling centers)"
+  },
+  {
+    "Business_Code": "721110",
+    "Main_code": "720000",
+    "GA_code": "721000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Accommodation",
+    "Principal_Activity": "Hotels (except Casino Hotels) & Motels"
+  },
+  {
+    "Business_Code": "721120",
+    "Main_code": "720000",
+    "GA_code": "721000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Accommodation",
+    "Principal_Activity": "Casino Hotels"
+  },
+  {
+    "Business_Code": "721191",
+    "Main_code": "720000",
+    "GA_code": "721000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Accommodation",
+    "Principal_Activity": "Bed & Breakfast Inns"
+  },
+  {
+    "Business_Code": "721199",
+    "Main_code": "720000",
+    "GA_code": "721000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Accommodation",
+    "Principal_Activity": "All Other Traveler Accommodation"
+  },
+  {
+    "Business_Code": "721210",
+    "Main_code": "720000",
+    "GA_code": "721000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Accommodation",
+    "Principal_Activity": "RV (Recreational Vehicle) Parks & Recreational Camps"
+  },
+  {
+    "Business_Code": "721310",
+    "Main_code": "720000",
+    "GA_code": "721000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Accommodation",
+    "Principal_Activity": "Rooming & Boarding Houses"
+  },
+  {
+    "Business_Code": "722110",
+    "Main_code": "720000",
+    "GA_code": "722000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Food Services and Drinking Places",
+    "Principal_Activity": "Full"
+  },
+  {
+    "Business_Code": "722210",
+    "Main_code": "720000",
+    "GA_code": "722000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Food Services and Drinking Places",
+    "Principal_Activity": "Limited"
+  },
+  {
+    "Business_Code": "722300",
+    "Main_code": "720000",
+    "GA_code": "722000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Food Services and Drinking Places",
+    "Principal_Activity": "Special Food Services (including food service contractors & caterers)"
+  },
+  {
+    "Business_Code": "722410",
+    "Main_code": "720000",
+    "GA_code": "722000",
+    "Main_Industry": "Accommodation and Food Services",
+    "General_Activity": "Food Services and Drinking Places",
+    "Principal_Activity": "Drinking Places (Alcoholic Beverages)"
+  },
+  {
+    "Business_Code": "811110",
+    "Main_code": "810000",
+    "GA_code": "811000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Repair and Maintenance",
+    "Principal_Activity": "Automotive Mechanical & Electrical Repair & Maintenance"
+  },
+  {
+    "Business_Code": "811120",
+    "Main_code": "810000",
+    "GA_code": "811000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Repair and Maintenance",
+    "Principal_Activity": "Automotive Body, Paint, Interior, & Glass Repair"
+  },
+  {
+    "Business_Code": "811190",
+    "Main_code": "810000",
+    "GA_code": "811000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Repair and Maintenance",
+    "Principal_Activity": "Other Automotive Repair & Maintenance (including oil change & lubrication shops & car washes)"
+  },
+  {
+    "Business_Code": "811210",
+    "Main_code": "810000",
+    "GA_code": "811000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Repair and Maintenance",
+    "Principal_Activity": "Electronic & Precision Equipment Repair & Maintenance"
+  },
+  {
+    "Business_Code": "811310",
+    "Main_code": "810000",
+    "GA_code": "811000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Repair and Maintenance",
+    "Principal_Activity": "Commercial & Industrial Machinery & Equipment (except Automotive & Electronic) Repair & Maintenance"
+  },
+  {
+    "Business_Code": "811410",
+    "Main_code": "810000",
+    "GA_code": "811000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Repair and Maintenance",
+    "Principal_Activity": "Home & Garden Equipment & Appliance Repair & Maintenance"
+  },
+  {
+    "Business_Code": "811420",
+    "Main_code": "810000",
+    "GA_code": "811000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Repair and Maintenance",
+    "Principal_Activity": "Reupholstery & Furniture Repair"
+  },
+  {
+    "Business_Code": "811430",
+    "Main_code": "810000",
+    "GA_code": "811000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Repair and Maintenance",
+    "Principal_Activity": "Footwear & Leather Goods Repair"
+  },
+  {
+    "Business_Code": "811490",
+    "Main_code": "810000",
+    "GA_code": "811000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Repair and Maintenance",
+    "Principal_Activity": "Other Personal & Household Goods Repair & Maintenance"
+  },
+  {
+    "Business_Code": "812111",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Barber Shops"
+  },
+  {
+    "Business_Code": "812112",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Beauty Salons"
+  },
+  {
+    "Business_Code": "812113",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Nail Salons"
+  },
+  {
+    "Business_Code": "812190",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Other Personal Care Services (including diet & weight reducing centers)"
+  },
+  {
+    "Business_Code": "812210",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Funeral Homes & Funeral Services"
+  },
+  {
+    "Business_Code": "812220",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Cemeteries & Crematories"
+  },
+  {
+    "Business_Code": "812310",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Coin"
+  },
+  {
+    "Business_Code": "812320",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Drycleaning & Laundry Services (except Coin"
+  },
+  {
+    "Business_Code": "812330",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Linen & Uniform Supply"
+  },
+  {
+    "Business_Code": "812910",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Pet Care (except Veterinary) Services"
+  },
+  {
+    "Business_Code": "812920",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Photofinishing"
+  },
+  {
+    "Business_Code": "812930",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "Parking Lots & Garages"
+  },
+  {
+    "Business_Code": "812990",
+    "Main_code": "810000",
+    "GA_code": "812000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Personal and Laundry Services",
+    "Principal_Activity": "All Other Personal Services"
+  },
+  {
+    "Business_Code": "813000",
+    "Main_code": "810000",
+    "GA_code": "813000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+    "Principal_Activity": "Religious, Grantmaking, Civic, Professional, & Similiar Organizations (including condominium and homeowners associations)"
+  },
+  {
+    "Business_Code": "813930",
+    "Main_code": "810000",
+    "GA_code": "813000",
+    "Main_Industry": "Other Services",
+    "General_Activity": "Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+    "Principal_Activity": "Labor Unions and Similar Labor Organizations"
+  },
+  {
+    "Business_Code": "921000",
+    "Main_code": "920000",
+    "GA_code": "921000",
+    "Main_Industry": "Governmental Instrumentality or Agency",
+    "General_Activity": "Governmental Instrumentality or Agency",
+    "Principal_Activity": "Governmental Instrumentality or Agency"
+  }
+]
