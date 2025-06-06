@@ -73,7 +73,7 @@ def pan_zoom_pos(relayout_data, stored_data):
             subkey = k.split(".", 1)[1]
             new_state[subkey] = v
     if new_state:
-        print("Pan/Zoom Data Updated:", new_state)
+        # print("Pan/Zoom Data Updated:", new_state)
         return new_state
     return dash.no_update
 
@@ -85,7 +85,7 @@ def pan_zoom_pos(relayout_data, stored_data):
     prevent_initial_call=True
 )
 def update_map(selected_codes, pan_zoom_data):
-    print("update_map called with selected_codes:", selected_codes)
+    # print("update_map called with selected_codes:", selected_codes)
     # print("Selected code names and values:")
     # for code in selected_codes or []:
     #     # Find the industry name for this code (matching first two digits)
@@ -188,7 +188,7 @@ def update_map(selected_codes, pan_zoom_data):
 
     # Apply pan/zoom if available
     if pan_zoom_data:
-        print("Applying pan/zoom data:", pan_zoom_data)
+        # print("Applying pan/zoom data:", pan_zoom_data)
         fig_filtered.update_layout(geo={**fig_filtered.layout.geo.to_plotly_json(), **pan_zoom_data})
 
     return fig_filtered
